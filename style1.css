@@ -1,0 +1,38 @@
+html {
+
+	background: #BDBDBD;
+
+}
+
+h1 {
+
+	text-align: center;
+	font-size: 50px;
+	font-family: helvetica;
+	font-weight: lighter;
+	color: #2E64FE;
+
+}
+
+form  {
+
+	text-align: center;
+	background: #A9BCF5;
+
+}
+
+input[type=text] {
+
+	width: 250px;
+	height: 25px;
+	font-size: 20px;
+
+}
+
+input[type=submit] {
+
+	width: 100px; 
+	height: 25px;
+	font-size: 17px;
+
+}
